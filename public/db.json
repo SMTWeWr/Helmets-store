@@ -1,0 +1,85 @@
+{
+  "helmets": [
+    {
+      "id": 0,
+      "imageUrl": "https://motodom.ua/image/cache_webp/catalog/Product_Pictures/Helmets/AGV/K6_Rush/agv_k6_flash_helmet_lime-800x800.webp",
+      "name": "МОТОШЛЕМ AGV K-6 FLASH 2019",
+      "sizes": [0, 1, 2, 3, 4, 5],
+      "price": 16600,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://motodom.ua/image/cache_webp/catalog/Product_Pictures/Helmets/AGV/K1_Soleluna2017/agv_k1_soleluna_2017-800x800.webp",
+      "name": "МОТОШЛЕМ AGV K-1 SOLELUNA 2017",
+      "sizes": [0, 1, 2, 3, 4, 5],
+      "price": 7425,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://motodom.ua/image/cache_webp/catalog/Product_Pictures/Helmets/Icon/Icon%20Airflite%20Mips%20Jewel/61096-800x800.webp",
+      "name": "МОТОШЛЕМ ICON AIRFLITE MIPS JEWEL",
+      "sizes": [0, 2, 5],
+      "price": 13200,
+      "category": 2,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://motodom.ua/image/cache_webp/catalog/Product_Pictures/Helmets/AGV/K-5_S/agvk5_s_helmet_solid_750x750-800x800.webp",
+      "name": "МОТОШЛЕМ AGV K-5 S Black 2021",
+      "sizes": [0, 1, 2, 3],
+      "price": 11000,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://motodom.ua/image/cache_webp/catalog/Product_Pictures/Helmets/AGV/Pista_Perfomance/6031D2MY-0012__70012.1569366458-800x800.webp",
+      "name": "МОТОШЛЕМ AGV PISTA GP RR PERFORMANCE",
+      "sizes": [0, 1, 2, 5],
+      "price": 42600,
+      "category": 0,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://motodom.ua/image/cache_webp/catalog/Product_Pictures/Helmets/Icon/Airframe%20Pro%20Carbon%20Gold/540-2925_B_V3-800x800.webp",
+      "name": "МОТОШЛЕМ ICON AIRFRAME PRO CARBON GOLD",
+      "sizes": [1, 2, 3, 4],
+      "price": 17800,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://motodom.ua/image/cache_webp/catalog/Product_Pictures/Helmets/Shoei/NXR_Shorebreak/NXR_Shorebreak-800x800.webp",
+      "name": "МОТОШЛЕМ SHOEI NXR SHOREBREAK",
+      "sizes": [0, 1, 2],
+      "price": 15710,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://motodom.ua/image/cache_webp/catalog/Product_Pictures/Helmets/Shoei/NXR_Philosopher/af706ddd44543ea91fc9cbd7ee1abe52-800x800h.webp",
+      "name": "МОТОШЛЕМ SHOEI NXR PHILOSOPHER",
+      "sizes": [0, 1, 2],
+      "price": 15000,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://motodom.ua/image/cache_webp/catalog/Product_Pictures/Helmets/Shoei/X-Spirit_2_Vermeulen5/13b4b666b321fa54b754bd00b77e0c6e-800x800h.webp",
+      "name": "МОТОШЛЕМ SHOEI X-SPIRIT 2 VERMEULEN5",
+      "sizes": [0, 1, 2],
+      "price": 17325,
+      "category": 1,
+      "rating": 10
+    }
+  ]
+}
